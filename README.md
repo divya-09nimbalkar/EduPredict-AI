@@ -1,4 +1,4 @@
-**EduPredict AI — Student Intelligence Platform**
+# EduPredict AI — Student Intelligence Platform
 
 EduPredict AI is a production-ready machine learning web application built with Streamlit that predicts student future outcomes — Placed, Higher Studies, Entrepreneur, or Needs Support — using academic and behavioral data.
 
